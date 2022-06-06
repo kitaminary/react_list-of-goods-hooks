@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,MACE,sBAAwB,CACxB,kBAAmB","file":"main.00602bf9.chunk.css","sourcesContent":["/* put styles here */\n.good {\n  border: 4px double black;\n  border-radius: 20px;\n}\n"]}
